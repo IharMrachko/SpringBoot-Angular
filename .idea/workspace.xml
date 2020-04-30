@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d57817d0-a9e9-4f1d-8b2d-dac24df455ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/students/client/src/app/admin/admin.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/client/src/app/admin/shared/HttpInterceptorService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/client/src/app/admin/shared/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/students/client/src/app/shared/interfase.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/students/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/client/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/students/client/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/students/client/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/students/client/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students/client/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/students/client/src/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/students/client" />
+  </component>
+  <component name="ProjectId" id="1bGkggVtj5npSgp6QSQ4BzU6dAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="D:\project\Angular\Students\students\client\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57817d0-a9e9-4f1d-8b2d-dac24df455ba" name="Default Changelist" comment="" />
+      <created>1574425674721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574425674721</updated>
+      <workItem from="1574425676239" duration="34000" />
+      <workItem from="1588265932020" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
